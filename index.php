@@ -12,8 +12,8 @@ include 'includes/nav.php';
           <div class="item active">
             <img src="img/gallery_perform.png" alt="...">
             <div class="carousel-caption">
-              <h4>The new MacBook Air</h4>
-              All the power blah blah..
+              <h4>My Firast Instance Abhijeet</h4>
+              Start new  Instance..
             </div>
           </div>
           <div class="item" style="">
