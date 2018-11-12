@@ -1,5 +1,6 @@
 <?php
 //Start session
+//Start new session
 session_start();
 include 'includes/header.php';
 include 'includes/nav.php';
