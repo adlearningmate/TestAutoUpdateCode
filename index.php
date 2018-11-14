@@ -1,5 +1,4 @@
 <?php
-//Abhijeet Deshpande
 //Start session
 session_start();
 include 'includes/header.php';
